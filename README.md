@@ -1,2 +1,3 @@
 # Application Autocorrect
-#Auteurs
+Authors
+Samiha El Mansouri - Lead Developer
